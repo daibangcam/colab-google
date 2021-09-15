@@ -1,4 +1,4 @@
-# VPS From Google Colab
+# VPS From Google Colab/Google Cloud Shell
 
 ## Contact
 
@@ -12,10 +12,18 @@ Website: http://hano.cf/
 
 ## Demo
 
-Watch it on YouTube 
- 
-[VPS Windows 10 Lite 64bit 2CPU 8GB Ram](https://youtu.be/uroQgFYWNG0)
+Watch it on YouTube:
 
-[VPS Windows 7 Lite 32bit 2CPU 8GB Ram](https://youtu.be/uroQgFYWNG0)
+[VPS Linux 12GB RAM với Google Cloud Shell](https://youtu.be/PAOyLx2_Zwk)
 
-[VPS Linux](https://youtu.be/IcV0QFGttB8)
+[VPS Linux 12GB RAM với Google Colab](https://youtu.be/rKCxVrKCUQI)
+
+[VPS Win10 64bit 8GB RAM với Google Colab](https://youtu.be/WDpPf0ZWKAE)
+
+[VPS Win7 32bit 8GB RAM với Google Cloud Shell](https://youtu.be/mWc11k2FVZs)
+
+[VPS Win7 32bit 8GB RAM với Google Colab](https://youtu.be/7bFw-uI6CqY)
+
+[VPS WinXP 32bit 3GB RAM với Google Cloud Shell](https://youtu.be/5L3E08QNRLY)
+
+[VPS WinXP 32bit 3GB RAM với Google Colab](https://youtu.be/xT4EftcFaZs)
