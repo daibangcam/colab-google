@@ -14,6 +14,8 @@ Website: http://hano.cf/
 
 Watch it on YouTube:
 
+[Image Animation](https://youtu.be/Eny_4dmNy38)
+
 [VPS Linux 12GB RAM với Google Cloud Shell](https://youtu.be/PAOyLx2_Zwk)
 
 [VPS Linux 12GB RAM với Google Colab](https://youtu.be/rKCxVrKCUQI)
